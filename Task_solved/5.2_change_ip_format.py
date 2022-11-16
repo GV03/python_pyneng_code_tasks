@@ -14,3 +14,9 @@ Network:
 {0:08b}  {1:08b}  {2:08b}  {3:08b}
 '''
 print(Network_output.format(int(ip_list1[0]),int(ip_list1[1]),int(ip_list1[2]),int(ip_list1[3])))
+
+
+###Example output#############
+#Network:
+#192       168       45        23
+#11000000  10101000  00101101  00010111
