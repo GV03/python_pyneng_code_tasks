@@ -1,3 +1,4 @@
+#extract the IP address while user input with mask and convert IP address in binary format
 
 
 ask_ip_network = input('Enter ip network address with mask : ') #e.g = 192.168.0.0/24
