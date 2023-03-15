@@ -1,0 +1,5 @@
+Device_IP,Device_Type,Device_Username,Device_Password,Target_Software_Version
+192.168.74.11,cisco_ios,admin,cisco,18.1(4)M7
+192.168.74.22,cisco_ios,admin,cisco,18.1(4)M7
+192.168.74.88,cisco_ios,admin,cisco,18.1(4)M7
+192.168.74.55,cisco_ios,admin,cisco,18.1(4)M7
