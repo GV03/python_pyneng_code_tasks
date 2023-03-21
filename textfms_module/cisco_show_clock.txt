@@ -1,0 +1,2 @@
+Router# show clock
+13:30:55.034 UTC Sun Mar 21 2023
