@@ -18,7 +18,7 @@ Tracing the route to dns.google [8.8.8.8]
  10  8.8.8.8  52 msec  54 msec  52 msec
 
 '''
-with open('C:/Users/gbvaghas/OneDrive - Nokia/pyneng_website_excersice/Module_Textfsm/traceroute.template') as template:
+with open('C:/Users/gbvaghas/OneDrive - Nokia/Module_Textfsm/traceroute.template') as template:
     fsm = textfsm.TextFSM(template)
     result = fsm.ParseText(traceroute_output)
 
